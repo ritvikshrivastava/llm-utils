@@ -1,1 +1,13 @@
-.idea/
+# pyenv
+.python-version
+.venv
+
+# IDE
+.idea
+.vscode
+
+# Mac
+.DS_STORE
+
+# Env
+.env
